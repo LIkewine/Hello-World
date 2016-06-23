@@ -9,5 +9,7 @@
 int main()
 {
     printf("aaa");
+    printf("bbbb");
+    printf("ccccc");
     return 0;
 }
